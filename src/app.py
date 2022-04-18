@@ -1,7 +1,7 @@
 import streamlit as st
 
-from extracte_deps import extract_dependencies
-from dep_graph import create_dependencies_graph
+from denpendencies import extract_dependencies
+from graph import create_dependencies_graph
 
 
 # text form
